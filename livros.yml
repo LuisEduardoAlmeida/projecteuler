@@ -1,0 +1,6 @@
+--- !ruby/object:Livro
+teste: 123
+
+
+--- !ruby/object:Livro
+teste: 123
